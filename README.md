@@ -1,4 +1,3 @@
-![Logo](https://zupimages.net/up/20/37/8eqj.png)<br>
 ## Hi I'm iThorgrim
 
 I've been working for World of Warcraft servers for more than 8 years now.
