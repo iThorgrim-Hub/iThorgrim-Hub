@@ -1,8 +1,8 @@
 ## Hi I'm iThorgrim
 
-I've been working for World of Warcraft servers for more than 8 years now.
-I contribute to the AzerothCore project via some modules that are available just below.
-I work mainly and see unique in LUA.
+I've been working for World of Warcraft servers for more than 8 years now.<br>
+I contribute to the AzerothCore project via some modules that are available just below.<br>
+I work mainly in LUA.
 
 ## My Skills
 ### [LUA] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
