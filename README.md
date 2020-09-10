@@ -35,9 +35,11 @@ I work mainly in LUA.
     <tr>
     <td>  <b>Parangon System</b>  </td>
     <td>  <b>Sesame System</b>  </td>
+    <td>  <b>Exp Rate Modifier</b>  </td>
   </tr>
   <tr>
     <td>  <img height="300" src="https://cdn.discordapp.com/attachments/753177748989542482/753571381014167622/unknown.png">  </td>
     <td>  <img height="300" src="https://cdn.discordapp.com/attachments/753177748989542482/753272492839141447/unknown.png">  </td>
+    <td>  <img height="300" src="https://cdn.discordapp.com/attachments/753177748989542482/753690586929823824/unknown.png">  </td>
   </tr>
 </table>
