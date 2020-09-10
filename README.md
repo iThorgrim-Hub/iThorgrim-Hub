@@ -5,11 +5,22 @@ I contribute to the AzerothCore project via some modules that are available just
 I work mainly in LUA.
 
 ## My Skills
-### [LUA] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
-### [SQL] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
-### [PHP] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
-### [CSS] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
-### [JS]     ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
+<table>
+  <tr>
+    <td>  <b>LUA</b>  </td>
+    <td>  <b>PHP</b>  </td>
+    <td>  <b>HTML / CSS</b>  </td>
+    <td>  <b>JS</b>  </td>
+    <td>  <b>SQL</b>  </td>
+  </tr>
+  <tr>
+    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"></td>
+    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> </td>
+    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png">  </td>
+    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> </td>
+    <td>  <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/jpe7.png"> <img height="10" src="https://zupimages.net/up/20/37/94ww.png"> </td>
+  </tr>
+</table>
 
 ## My Projects
 - 🔧 I’m currently working on [Hinterlands-Serveur.fr](http://hinterlands-serveur.fr/)<br/>
