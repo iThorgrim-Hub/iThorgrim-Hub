@@ -1,4 +1,5 @@
-### Hi there 👋
+![iThorgrim's github stats](https://github-readme-stats.vercel.app/api?username=ithorgrim-hub&show_icons=true&count_private=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithorgrim-hub&layout=compact)
 
 <!--
 **iThorgrim-Hub/iThorgrim-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
