@@ -7,8 +7,8 @@ I work mainly and see unique in LUA.
 ## My Skills
 ### [LUA] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
 ### [SQL] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
-### [CSS] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
-### [CSS] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
+### [CSS] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
+### [JS] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
 ### [PHP] ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![ok](https://zupimages.net/up/20/37/jpe7.png) ![pasok](https://zupimages.net/up/20/37/94ww.png)
 
 ## My Projects
