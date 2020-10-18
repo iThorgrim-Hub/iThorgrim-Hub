@@ -23,7 +23,7 @@ I work mainly in LUA.
 </table>
 
 ## My Projects
-- 🔧 I’m currently working on [Hinterlands-Serveur.fr](http://hinterlands-serveur.fr/)<br/>
+- 🔧 I’m currently working on [Warlog.eu](https://warlog.eu/)<br/>
 - 🔭 I'm participating in the project [AzerothCore](http://azerothcore.org)<br/>
 
 ## My Stats
