@@ -55,6 +55,8 @@ I work mainly in LUA.
     <td>  <img height="300" src="https://cdn.discordapp.com/attachments/411858886191087626/769719392010895410/unknown.png">  </td>
   </tr>
   </tr>
+      <td>  <b>Store Announce</b>  </td>
+      <td>  <b>Store Main Page</b>  </td>
     <td>  <img height="300" src="https://cdn.discordapp.com/attachments/411858886191087626/769719392010895410/unknown.png">  </td>
     <td>  <img height="300" src="https://cdn.discordapp.com/attachments/411858886191087626/769719392010895410/unknown.png">  </td>
   </tr>
