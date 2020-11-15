@@ -53,7 +53,8 @@ I work mainly in LUA.
   <tr>
     <td>  <img height="300" src="https://zupimages.net/up/20/43/hkrd.png">  </td>
     <td>  <img height="300" src="https://cdn.discordapp.com/attachments/411858886191087626/769719392010895410/unknown.png">  </td>
-    </br>
+  </tr>
+  </tr>
     <td>  <img height="300" src="https://cdn.discordapp.com/attachments/411858886191087626/769719392010895410/unknown.png">  </td>
     <td>  <img height="300" src="https://cdn.discordapp.com/attachments/411858886191087626/769719392010895410/unknown.png">  </td>
   </tr>
