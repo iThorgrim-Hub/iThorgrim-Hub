@@ -58,7 +58,7 @@ I work mainly in LUA.
       <td>  <b>Store Main Page</b>  </td>
   </tr>
   <tr>
-    <td>  <img height="300" src="https://zupimages.net/up/20/47/9kg1.png">  </td>
-    <td>  <img height="300" src="https://zupimages.net/up/20/47/nzgn.png">  </td>
+    <td>  <img height="300" src="https://www.zupimages.net/up/20/47/9kg1.png">  </td>
+    <td>  <img height="300" src="https://www.zupimages.net/up/20/47/nzgn.png">  </td>
   </tr>
 </table>
