@@ -1,6 +1,6 @@
 ## Hi I'm iThorgrim
 
-I've been working for World of Warcraft servers for more than 8 years now.<br>
+I've been working for World of Warcraft servers for more than 9 years now.<br>
 I contribute to the AzerothCore project via some modules that are available just below.<br>
 I work mainly in LUA.
 
@@ -23,7 +23,7 @@ I work mainly in LUA.
 </table>
 
 ## My Projects
-- 🔧 I’m currently working on [Warlog.eu](https://warlog.eu/)<br/>
+- 🔧 I’m currently working on [nothing ?](https://nothing.com/)<br/>
 - 🔭 I'm participating in the project [AzerothCore](http://azerothcore.org)<br/>
 
 ## My Stats
