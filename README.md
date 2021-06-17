@@ -27,8 +27,8 @@ I work mainly in LUA.
 - 🔭 I'm participating in the project [AzerothCore](http://azerothcore.org)<br/>
 
 ## My Stats
-![iThorgrim's github stats](https://github-readme-stats.vercel.app/api?username=ithorgrim-hub&show_icons=true&count_private=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithorgrim-hub&layout=compact)
+![iThorgrim's github stats](https://github-readme-stats.vercel.app/api?username=ithorgrim&show_icons=true&count_private=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithorgrim&layout=compact)
 
 ## Bonus : All of my Lua Interface Works
 <table>
